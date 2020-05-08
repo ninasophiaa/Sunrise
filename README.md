@@ -2,7 +2,7 @@
 Sunrise
  
 Introduction:
-For our final project, we coded a sunrise using ellipse and the setGradient function to gradually change the background colors to mimic a realistic sunrise with yellows and oranges. Originally, we had wanted the colors to have more of an intense transition but found it was more difficult than we originally thought it would be. We did our best by using skills we learned in class to implement the setGradient function (a function we had never previously learned about or used in class) using variables c1 and c2 as color 1 and color 2. We also used lerpColor to blend our c1 and c2 together to help create the visual of a gradiant to represent the sky's colors changing.
+For our final project, we coded a sunrise using ellipse and the setGradient function to gradually change the background colors to mimic a realistic sunrise with yellows and oranges. Originally, we had wanted the colors to have more of an intense transition but found it was more difficult than we originally thought it would be. We did our best by using skills we learned in class to implement the setGradient function (a function we had never previously learned about or used in class) using variables c1 and c2 as color 1 and color 2. We also used lerpColor to blend the colors of c1 and c2 together to help create the visual of a gradiant to represent the sky's colors changing.
 
 Instructions:
 Press the play button and watch the sun rise and colors change!
